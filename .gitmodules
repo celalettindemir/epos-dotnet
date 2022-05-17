@@ -1,0 +1,6 @@
+[submodule "epos-desktop-dotnet"]
+	path = epos-desktop-dotnet
+	url = https://github.com/celalettindemir/epos-desktop-dotnet.git
+[submodule "epos-api-dotnet"]
+	path = epos-api-dotnet
+	url = https://github.com/celalettindemir/epos-api-dotnet.git
